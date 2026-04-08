@@ -3,4 +3,6 @@ Ketika website disegarkan, maka otomatis random memunculkan gambar jari kelingki
 Flow logika
 - buat random angka 1-3
 - representasi, jika 1-3 maka berubah menjadi gambar
-- kemudian aturan suit, untuk memenangkan
+- kemudian masukan aturan suit, untuk menang dan kalah.
+
+Inspiration from https://appbrewery.com/
